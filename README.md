@@ -27,6 +27,7 @@ Fonts:
 
 
 # Wireframes
+https://www.figma.com/file/BbP3ISDjDszkNL7CYTh6dxwU/Portfolio-website
 
 For the main page I am planning to start with the black ground with the Melbourne picture behind it and then have it transition into the stage 2 image. After that I plan to have the image slowly regain its color to give viewers a break from the constant black and white.
 
