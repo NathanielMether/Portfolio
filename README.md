@@ -3,7 +3,7 @@
 
 
 # Inspiration
-
+https://au.pinterest.com/nmether/portfolio-website/
 
 For this website I like how the design is quite dull except for the text which is the main content. I like the idea of using the text to create a cutout of an image underneath.
 
