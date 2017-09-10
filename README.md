@@ -57,3 +57,4 @@ For the navbar I decided to use a house logo to link back to the main page but d
 -	Add hover animation for links to give responsiveness to website
 -	Link up contact page with my email.
 -	Get background image to work on mobile
+- Give confirmation for sending email
