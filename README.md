@@ -6,18 +6,23 @@
 https://au.pinterest.com/nmether/portfolio-website/
 
 For this website I like how the design is quite dull except for the text which is the main content. I like the idea of using the text to create a cutout of an image underneath.
+
 ![](assets/image-crop.png)
 
 The minimal design for this website makes it look very clean.
+
 ![](assets/simple.png)
 
 The main text on this website would make a good contrast to an otherwise bland design that I’m planning for my website.
+
 ![](assets/fancy.png)
 
 For this website I like the big bold white text on top of the background image, it would be good to use this for the main page.
+
 ![](assets/center-text.png)
 
 I think the yellow in this website works very well is very clear on the otherwise dark color scheme.
+
 ![](assets/yellow.png)
 
 
