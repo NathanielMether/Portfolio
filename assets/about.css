@@ -162,3 +162,91 @@ p {
 a {
   text-decoration: none;
 }
+
+@media(min-width:768px) {
+
+  .header {
+    height: 93px;
+  }
+
+  .logo-circle {
+    width: 60px;
+    height: 60px;
+    left: 63px;
+    top: 15px;
+  }
+
+  .home {
+    font-size: 37px;
+    top: -26px;
+    left: 7px;
+  }
+
+  .flex-box {
+    position: absolute;
+    top: -10px;
+    width: 72%;
+    left: 21%;
+  }
+
+  .border {
+    margin-left: 46px;
+    margin-right: 46px;
+    padding: 0 37px 11px 37px;
+  }
+
+  h1 {
+    font-size: 72px;
+  }
+
+  h2 {
+    font-size: 28px;
+  }
+
+  p {
+    font-size: 28px;
+    line-height: 50px;
+  }
+
+  .html5 {
+    height:  112px;
+  }
+
+  .css3 {
+    height:  112px;
+  }
+
+  .javascript {
+    height:  112px;
+  }
+
+  .sass {
+    width: 113px;
+    height: 112px;
+  }
+
+  .ruby {
+    height:  112px;
+  }
+
+  .rails {
+    height:  112px;
+  }
+
+  .react {
+    height:  112px;
+  }
+
+  .express {
+    width: 112px;
+    height: 115px;
+  }
+
+  .python {
+    height:  112px;
+  }
+
+  .mongodb {
+    height: 112px;
+  }
+}
