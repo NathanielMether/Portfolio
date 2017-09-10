@@ -18,10 +18,11 @@ I think the yellow in this website works very well is very clear on the otherwis
 
 # Style Guide
 
-Fonts: Passion One in bold headings
-	Noto Serif in bold for navbar links
-	Noto Sans for page body content
-	Aguafina Script for logo
+Fonts: 	
+- Passion One in bold headings
+- Noto Serif in bold for navbar links
+- Noto Sans for page body content
+- Aguafina Script for logo
 
 
 
