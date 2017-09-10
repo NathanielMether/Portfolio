@@ -147,7 +147,6 @@ p {
   top: 6px;
 }
 
-
 a {
   text-decoration: none;
 }
@@ -218,5 +217,39 @@ a {
     width: 60px;
     height: 58.06px;
     top: 20px;
+  }
+}
+
+
+@media(min-width:1024px) {
+
+  .logo-circle {
+    width: 70px;
+    height: 70px;
+    left: 105px;
+    top: 10px;
+  }
+
+  .home {
+    font-size: 44px;
+    top: -37px;
+    left: 7px;
+  }
+
+  .flex-box {
+    top: -23px;
+  }
+
+  h1 {
+    font-size: 180px;
+    top: 30%;
+  }
+
+  p {
+    font-size: 36px;
+  }
+
+  .logos {
+    width: 551px;
   }
 }

@@ -196,3 +196,57 @@ a {
     top: -12px;
   }
 }
+
+@media(min-width:1024px) {
+
+  .logo-circle {
+    width: 70px;
+    height: 70px;
+    left: 105px;
+    top: 10px;
+  }
+
+  .home {
+    font-size: 44px;
+    top: -37px;
+    left: 7px;
+  }
+
+  .flex-box {
+    top: -23px;
+  }
+
+  .flex {
+    justify-content: center;
+  }
+
+  .tile {
+    width: 433px;
+    height: 402px;
+    margin: 48px;
+  }
+
+  .bootcamp {
+    height: 332px;
+    top: -10px;
+  }
+
+  .coffee {
+    width: 350px;
+    height: 317px;
+    top: 5px;
+    }
+
+    h1 {
+    font-size: 72px;
+  }
+
+  h2 {
+    font-size: 36px;
+  }
+
+  p {
+    font-size: 24px;
+  }
+
+}

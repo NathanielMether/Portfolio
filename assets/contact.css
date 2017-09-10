@@ -159,9 +159,17 @@ a {
     padding: 56px 70px 55px 74px;
   }
 
+  input[type=text]  {
+    height: 66px;
+  }
+
   input[type=submit] {
     width: 203px;
     height: 65px;
+  }
+
+  textarea {
+    height: 277px;
   }
 
   h1 {
@@ -175,4 +183,46 @@ a {
   p {
     font-size: 24px;
   }
+}
+
+@media(min-width:1024px) {
+
+  .logo-circle {
+    width: 70px;
+    height: 70px;
+    left: 105px;
+    top: 10px;
+  }
+
+  .home {
+    font-size: 44px;
+    top: -37px;
+    left: 7px;
+  }
+
+  .flex-box {
+    top: -23px;
+  }
+
+  .border {
+    margin: 55px 35px 50px 35px;
+    padding: 56px 70px 55px 74px;
+  }
+
+  input[type=submit] {
+    width: 246px;
+  }
+
+  h1 {
+    font-size: 72px;
+  }
+
+  h2 {
+    font-size: 36px;
+  }
+
+  p {
+    font-size: 24px;
+  }
+
 }

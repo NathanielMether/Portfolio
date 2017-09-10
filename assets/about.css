@@ -250,3 +250,85 @@ a {
     height: 112px;
   }
 }
+
+@media(min-width:1024px) {
+
+  .logo-circle {
+    width: 70px;
+    height: 70px;
+    left: 105px;
+    top: 10px;
+  }
+
+  .home {
+    font-size: 44px;
+    top: -27px;
+    left: 7px;
+  }
+
+  .flex-box {
+    top: -23px;
+  }
+
+  .border {
+    margin-left: 93px;
+    margin-right: 93px;
+    padding: 0 48px 10px 48px;
+  }
+
+  .html5 {
+    height:  134px;
+  }
+
+  .css3 {
+    height:  134px;
+  }
+
+  .javascript {
+    height:  134px;
+  }
+
+  .sass {
+    width: 134px;
+    height: 134px;
+  }
+
+  .ruby {
+    height:  134px;
+  }
+
+  .rails {
+    height:  134px;
+  }
+
+  .react {
+    height:  134px;
+  }
+
+  .express {
+    width: 134px;
+    height: 134px;
+  }
+
+  .python {
+    height:  134px;
+  }
+
+  .mongodb {
+    height: 134px;
+  }
+}
+
+  h1 {
+    font-size: 72px;
+  }
+
+  h2 {
+    font-size: 36px;
+  }
+
+  p {
+    font-size: 28px;
+  }
+
+}
