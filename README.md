@@ -61,11 +61,11 @@ For the navbar I decided to use a house logo to link back to the main page but d
 -	Making the icons of all the programming languages the color I wanted them to be.
 -	Spacing the icons the way I designed.
 -	Floating div to right hand side on projects page was breaking the design of the elements inside the div.
+- Changing proficincies section from mobile to tablet design - May need javascript.
 
 # TODO
 
--	Space out navbar correctly
--	Fix text so it matches figma design exactly
+-	Fix text so it matches figma design exactly - Not possible for exact match
 -	Add media queries to change design of website depending on browser width
 -	Add animation to the home page
 -	Add hover animation for links to give responsiveness to website
