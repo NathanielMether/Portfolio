@@ -1,6 +1,6 @@
 # Portfolio Website
 *I am designing my portfolio website with the goal of having a clean, sleek design and to have a very readable and intuitive design.	I want to show to potential employers that I can follow every detail of a design.*
-
+https://bricklayer-application-51711.netlify.com/
 
 # Inspiration
 https://au.pinterest.com/nmether/portfolio-website/
