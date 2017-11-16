@@ -66,8 +66,6 @@ For the navbar I decided to use a house logo to link back to the main page but d
 
 # TODO
 
--	Fix text so it matches figma design exactly - Not possible for exact match
--	Add animation to the home page
 -	Add hover animation for links to give responsiveness to website
 -	Link up contact page with my email
 - Give confirmation for sending email

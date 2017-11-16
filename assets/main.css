@@ -6,6 +6,7 @@ body, html {
   background: black; 
   padding: 0px;
   margin: 0px;
+  filter: opacity(100%);  
 }
 
 #full {
@@ -14,20 +15,17 @@ body, html {
 }
 
 .city {
-   background-image: url("/assets/melbourne.jpg"); 
-  /* -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text; */
-   flex-grow: 1;  
+  background-image: url("/assets/melbourne.jpg"); 
+  flex-grow: 1;  
   height: 70%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  /* filter: grayscale(100%); */
+  filter: grayscale(100%); 
 
-  transition: all 2s;
+  transition: all 10s;
   animation-name: city-color;
-  animation-direction: reverse;
-  animation-duration: 2s;   
+  animation-duration: 10s;  
 }
 
 .header {
@@ -135,7 +133,7 @@ h1 {
 
   text-align: center;
   margin: auto;
-  margin-top: 200px;
+  margin-top: 175px;
   width: 5em;
 }
 
@@ -156,7 +154,25 @@ a {
   text-decoration: none;
 }
 
-/* @media(min-width:768px) {
+@keyframes city-color {
+  0% {
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text; 
+    filter: grayscale(0%); 
+  }
+  60% {
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text; 
+    filter: grayscale(0%); 
+    background: #E7F338;
+  }
+  100% {
+    background-color: white;
+    filter: grayscale(100%); 
+  }
+}
+
+ @media(min-width:768px) {
 
   .header {
     height: 93px;
@@ -184,7 +200,7 @@ a {
 
   h1 {
     font-size: 144px;
-    top: 40%;
+    margin-top: 70px;
   }
 
   p {
@@ -247,7 +263,7 @@ a {
 
   h1 {
     font-size: 180px;
-    top: 30%;
+    margin-top: 20px;
   }
 
   p {
@@ -257,4 +273,4 @@ a {
   .logos {
     width: 551px;
   }
-} */
+} 
