@@ -124,9 +124,20 @@ p {
   top: -12px;
 }
 
-
 a {
   text-decoration: none;
+}
+
+h2:hover {
+  color: #E5F4E3;
+}
+
+.logo-circle:hover {
+  background-color: #E5F4E3;
+}
+
+.home:hover {
+  color: black;
 }
 
 @media(min-width:768px) {

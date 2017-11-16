@@ -154,6 +154,23 @@ a {
   text-decoration: none;
 }
 
+p:hover {
+  color: #E5F4E3;
+}
+
+.logo-circle:hover {
+  background-color: #E5F4E3;
+}
+
+.home:hover {
+  color: black;
+}
+
+.circle:hover {
+  background: #CEDBCC;
+  opacity: 100%;
+}
+
 @keyframes city-color {
   0% {
     -webkit-text-fill-color: transparent;
